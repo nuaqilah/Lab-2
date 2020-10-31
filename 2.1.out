@@ -1,0 +1,5 @@
+#include<stdio.h>	
+#include<sys/type.h>	
+#include<unistd.h>	
+int main() {	
+fork();	
